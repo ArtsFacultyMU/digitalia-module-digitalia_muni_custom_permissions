@@ -1,0 +1,8 @@
+administer digitalia_muni_custom_permissions configuration:
+  title: 'Administer digitalia_muni_custom_permissions configuration'
+  description: 'Optional description.'
+  restrict access: true
+
+access closed documents:
+  title: 'Access closed or embargoed documents'
+  description: 'Access closed or embargoed documents'
